@@ -1,0 +1,5 @@
+#to active the environment
+source ll_env/bin/activate
+
+#to runserver
+python manage.py runserver
